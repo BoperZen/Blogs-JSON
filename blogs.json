@@ -1,75 +1,74 @@
 [
-  {
-    "title": "Volcán Poás",
-    "desc": "Una de las mejores cosas que hacer en Costa Rica y una de las mejores excursiones desde San José, es acercarte al volcán Poás, rodeado de un bosque nuboso y una de las maravillas naturales del país de la «Pura Vida».",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Poas_crater.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Tortuguero",
-    "desc": "A orillas del Mar Caribe se encuentra el Parque Nacional de Tortuguero, uno de los mejores Parques Nacionales de Costa Rica, famoso por tener la playa de anidación de tortugas verdes más importante del hemisferio occidental y ser uno de los lugares más bonitos que visitar en Costa Rica.",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Poas_crater.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "El Arenal",
-    "desc": "Volcán de forma cónica casi perfecta, uno de los más bonitos del planeta y uno de los lugares imprescindibles que visitar.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/arenal-que-visitar-en-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Termas de Tabacón",
-    "desc": "Balneario natural con aguas termales, jardines tropicales, piscinas y opciones de spa, ideal para relajarse tras explorar Arenal.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/tabacon-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Catarata Río Celeste",
-    "desc": "Impactante cascada de color celeste en el Parque Nacional Volcán Tenorio, rodeada por senderos y miradores naturales.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/cascada-celeste-que-ver-en-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Norte de la Península de Nicoya",
-    "desc": "Zona costera con playas paradisíacas como Conchal y Tamarindo, perfecta para surf y para ver tortugas baulas en Playa Grande.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/playa-conchal-que-hacer-en-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Monteverde",
-    "desc": "Bosque nuboso con biodiversidad excepcional: orquídeas, quetzales, y actividades como puentes colgantes y tirolinas.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/monteverde-que-ver-en-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Playas del Sur de Nicoya",
-    "desc": "Playas como Montezuma y Santa Teresa, ambiente relajado, surf y cercanía al Parque Nacional Cabo Blanco.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/santa-teresa-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Parque Manuel Antonio",
-    "desc": "Pequeño parque nacional con gran accesibilidad, fauna como monos y perezosos, y playas vírgenes dentro del bosque.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/que-visitar-en-costa-rica-manuel-antonio.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Parque Nacional Marino Ballena",
-    "desc": "Espacio marino con manglares, arrecifes y la famosa Punta Uvita, ideal para avistar ballenas jorobadas en temporada.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/que-hacer-en-costa-rica-marino-ballena.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Parque Nacional Corcovado",
-    "desc": "Uno de los lugares con mayor biodiversidad del planeta, ubicado en la remota Península de Osa, con acceso remoto y abundante vida silvestre.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/corcovado-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  },
-  {
-    "title": "Puerto Viejo",
-    "desc": "Pueblo caribeño bohemio con playas paradisíacas, cultura afrocaribeña y fauna como perezosos visibles a lo largo de la costa.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/playa-manzanillo-costa-rica.jpg",
-    "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
-  }
+    {
+        "title": "Volcán Poás",
+        "desc": "Una de las mejores cosas que hacer en Costa Rica y una de las mejores excursiones desde San José, es acercarte al volcán Poás, rodeado de un bosque nuboso y una de las maravillas naturales del país de la «Pura Vida». Situado a una hora y media de la capital, este volcán de más de 2.700 metros de altura es una de las mayores cumbres de Costa Rica y además tiene uno de los cráteres más grandes e impresionantes del mundo con un diámetro de 365 metros y un lago de un color verde intenso que te enamorará a primera vista.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Poas_crater.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Tortuguero",
+        "desc": "A orillas del Mar Caribe se encuentra el Parque Nacional de Tortuguero, uno de los mejores Parques Nacionales de Costa Rica, famoso por tener la playa de anidación de tortugas verdes más importante del hemisferio occidental y ser uno de los lugares más bonitos que visitar en Costa Rica. Accesible solo por aire y mar, Tortuguero es uno de las zonas con mayor diversidad de flora y fauna de Costa Rica que se concentra en su increíble bosque tropical lluvioso atravesado por diferentes canales navegables que te permiten contemplar especies como el oso perezoso, el manatí, el cocodrilo o el mismísimo jaguar. Es importante saber que para ver el desove de las protegidas tortugas verdes tendrás que visitar el parque entre junio y septiembre, meses en los que además podrás observar como las tortugas recién nacidas dan sus primeros pasos en el emocionante tramo que lleva de los nidos de la playa al mar, que se produce dos meses después del desove. Recuerda que esta actividad se tiene que realizar siempre con un guía oficial y tener el máximo de cuidado y respeto para molestar lo mínimo a este precioso animal.",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Poas_crater.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "El Arenal",
+        "desc": "Volcán de forma cónica casi perfecta, uno de los más bonitos del planeta y uno de los lugares imprescindibles que visitar.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/arenal-que-visitar-en-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Termas de Tabacón",
+        "desc": "Balneario natural con aguas termales, jardines tropicales, piscinas y opciones de spa, ideal para relajarse tras explorar Arenal.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/tabacon-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Catarata Río Celeste",
+        "desc": "Impactante cascada de color celeste en el Parque Nacional Volcán Tenorio, rodeada por senderos y miradores naturales.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/cascada-celeste-que-ver-en-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Norte de la Península de Nicoya",
+        "desc": "Zona costera con playas paradisíacas como Conchal y Tamarindo, perfecta para surf y para ver tortugas baulas en Playa Grande.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/playa-conchal-que-hacer-en-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Monteverde",
+        "desc": "Bosque nuboso con biodiversidad excepcional: orquídeas, quetzales, y actividades como puentes colgantes y tirolinas.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/monteverde-que-ver-en-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Playas del Sur de Nicoya",
+        "desc": "Playas como Montezuma y Santa Teresa, ambiente relajado, surf y cercanía al Parque Nacional Cabo Blanco.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/santa-teresa-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Parque Manuel Antonio",
+        "desc": "Pequeño parque nacional con gran accesibilidad, fauna como monos y perezosos, y playas vírgenes dentro del bosque.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/que-visitar-en-costa-rica-manuel-antonio.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Parque Nacional Marino Ballena",
+        "desc": "Espacio marino con manglares, arrecifes y la famosa Punta Uvita, ideal para avistar ballenas jorobadas en temporada.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/que-hacer-en-costa-rica-marino-ballena.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Parque Nacional Corcovado",
+        "desc": "Uno de los lugares con mayor biodiversidad del planeta, ubicado en la remota Península de Osa, con acceso remoto y abundante vida silvestre.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/corcovado-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    },
+    {
+        "title": "Puerto Viejo",
+        "desc": "Pueblo caribeño bohemio con playas paradisíacas, cultura afrocaribeña y fauna como perezosos visibles a lo largo de la costa.",
+        "img": "https://www.viajeroscallejeros.com/wp-content/uploads/playa-manzanillo-costa-rica.jpg",
+        "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
+    }
 ]
-
