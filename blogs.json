@@ -1,13 +1,16 @@
 [
   {
     "title": "Volcán Poás",
-    "desc": "Uno de los parques nacionales más visitados de Costa Rica; se destaca por su enorme cráter y una laguna de azules imposibles visible desde los miradores.",
-    "img": "https://www.viajeroscallejeros.com/wp-content/uploads/que-ver-en-costa-rica-volcan-poas.jpg",
+    "desc": "Una de las mejores cosas que hacer en Costa Rica y una de las mejores excursiones desde San José, es acercarte al volcán Poás, rodeado de un bosque nuboso y una de las maravillas naturales del país de la «Pura Vida».
+Situado a una hora y media de la capital, este volcán de más de 2.700 metros de altura es una de las mayores cumbres de Costa Rica y además tiene uno de los cráteres más grandes e impresionantes del mundo con un diámetro de 365 metros y un lago de un color verde intenso que te enamorará a primera vista.
+Hay que tener en cuenta que es uno de los volcanes más activos del país (última erupción en abril de 2017), por lo que la visita se hace con casco y a lo largo del camino y en el mirador verás varios refugios de seguridad por si hubiese una erupción.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Poas_crater.jpg",
     "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
   },
   {
     "title": "Tortuguero",
-    "desc": "Parque costero famoso por ser uno de los principales sitios de desove de tortugas verdes y por su red de ríos y canales que permiten ver gran biodiversidad.",
+    "desc": "A orillas del Mar Caribe se encuentra el Parque Nacional de Tortuguero, uno de los mejores Parques Nacionales de Costa Rica, famoso por tener la playa de anidación de tortugas verdes más importante del hemisferio occidental y ser uno de los lugares más bonitos que visitar en Costa Rica.
+Accesible solo por aire y mar, Tortuguero es uno de las zonas con mayor diversidad de flora y fauna de Costa Rica que se concentra en su increíble bosque tropical lluvioso atravesado por diferentes canales navegables que te permiten contemplar especies como el oso perezoso, el manatí, el cocodrilo o el mismísimo jaguar.",
     "img": "https://www.viajeroscallejeros.com/wp-content/uploads/tortuguero-costa-rica.jpg",
     "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
   },
@@ -72,3 +75,4 @@
     "url": "https://www.viajeroscallejeros.com/que-visitar-en-costa-rica/"
   }
 ]
+
